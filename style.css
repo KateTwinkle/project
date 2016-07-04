@@ -35,7 +35,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('http://onpape.com/data/onpape.com-47132901.jpg');
+  background-image: url('img/car.jpg');
   background-size: cover;
   color: #ffffff;
   height: 800px;
@@ -68,7 +68,7 @@ section .row img {
   border: 0px;
   color: #fbd1d5;
   text-shadow: none;
-  background-color: #ffffff;
+  background-color: #00CCFF;
 }
 
 .btn.btn-primary:hover {
